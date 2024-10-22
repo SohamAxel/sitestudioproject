@@ -1,0 +1,15 @@
+uuid: f7fa2c54-01e7-4685-9c90-ab1a3825e328
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'file:file:1b9691c7-a52f-4584-b856-4de44fe406a2'
+label: Montserrat
+id: 1f4f4e8cf0b802282882fa585c8fb15b
+json_values: '{"type":"upload","fontDisplay":"auto","fontFiles":{"eot":null,"ttf":{"type":"file","uri":"public:\/\/cohesion\/Montserrat-VariableFont_wght.ttf","uuid":"1b9691c7-a52f-4584-b856-4de44fe406a2"},"woff":null,"woff2":null},"name":"Montserrat","uid":"1f4f4e8cf0b802282882fa585c8fb15b"}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0043
+locked: false
+modified: true
+selectable: true
+source: fonts
