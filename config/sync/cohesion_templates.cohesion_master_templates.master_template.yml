@@ -1,0 +1,15 @@
+uuid: d7601570-b917-4d1b-8869-f8837f293944
+langcode: en
+status: false
+dependencies: {  }
+label: 'Master template'
+id: master_template
+json_values: '{"canvas":[],"mapper":null,"model":[]}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0043
+locked: false
+modified: false
+selectable: false
+custom: false
+twig_template: null
+default: true

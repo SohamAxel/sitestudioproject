@@ -1,0 +1,13 @@
+uuid: b501307b-331f-470e-892d-9781a2dca076
+langcode: en
+status: false
+dependencies: {  }
+label: 'Heading 6'
+id: heading_6
+json_values: '{}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0043
+locked: false
+modified: false
+selectable: false
+custom: null

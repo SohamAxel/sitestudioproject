@@ -1,0 +1,7 @@
+uuid: 7e84b23b-f5f0-444c-ab86-1428bb39efa1
+langcode: en
+status: true
+dependencies: {  }
+label: Image
+id: image
+element: null

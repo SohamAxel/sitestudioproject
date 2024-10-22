@@ -1,0 +1,13 @@
+uuid: de3de016-698e-42aa-985d-f56ab5c1b3d0
+langcode: en
+status: false
+dependencies: {  }
+label: Link
+id: link
+json_values: '{}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0043
+locked: false
+modified: false
+selectable: false
+custom: null
