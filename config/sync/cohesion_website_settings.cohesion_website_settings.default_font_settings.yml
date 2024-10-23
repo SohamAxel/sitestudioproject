@@ -1,13 +1,13 @@
-uuid: 689c7f7e-2503-4b5d-bf9a-2b0d32f65276
+uuid: ee170f5b-2042-4f6a-8dbd-2e88106f539b
 langcode: en
 status: true
 dependencies:
   config:
-    - cohesion_website_settings.cohesion_color.base-primary
-    - cohesion_website_settings.cohesion_font_stack.montserrat
+    - cohesion_website_settings.cohesion_color.black
+    - cohesion_website_settings.cohesion_font_stack.roboto
 label: 'Default font settings'
 id: default_font_settings
-json_values: '{"defaultFontStack":"$coh-font-montserrat","color":{"link":true,"value":{"hex":"#fc9f43","rgba":"rgba(252, 159, 67, 1)"},"uid":"base-primary","name":"Base Primary","class":".coh-color-base-primary","variable":"$coh-color-base-primary","inuse":false}}'
+json_values: '{"defaultFontStack":"$coh-font-roboto","color":{"value":{"hex":"#000000","rgba":"rgba(0, 0, 0, 1)"},"name":"Black","uid":"black","wysiwyg":true,"class":".coh-color-black","variable":"$coh-color-black","inuse":false}}'
 json_mapper: '{}'
 last_entity_update: entityupdate_0043
 locked: false
