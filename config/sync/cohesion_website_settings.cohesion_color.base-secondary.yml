@@ -1,0 +1,13 @@
+uuid: 52f53d4e-95d9-42ba-a322-b7d145a56df3
+langcode: en
+status: true
+dependencies: {  }
+label: 'Base Secondary'
+id: base-secondary
+json_values: '{"link":true,"value":{"value":{"hex":"#e6f0e7","rgba":"rgba(230, 240, 231, 1)"}},"uid":"base-secondary","name":"Base Secondary","class":".coh-color-base-secondary","variable":"$coh-color-base-secondary","inuse":false}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0043
+locked: false
+modified: true
+selectable: true
+weight: 1
