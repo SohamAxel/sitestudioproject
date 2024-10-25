@@ -1,0 +1,30 @@
+uuid: 74327cc2-34e7-4823-a2f8-4b373c22a8ea
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:070287fc-da3c-45e5-87cb-e2e8a6de92b7'
+  module:
+    - block_content
+    - cohesion
+  theme:
+    - cohesion_theme
+id: cohesion_theme_contactnumber
+theme: cohesion_theme
+region: header
+weight: 0
+provider: null
+plugin: 'block_content:070287fc-da3c-45e5-87cb-e2e8a6de92b7'
+settings:
+  id: 'block_content:070287fc-da3c-45e5-87cb-e2e8a6de92b7'
+  label: 'Contact Number'
+  label_display: '0'
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  cohesion_master_template:
+    id: cohesion_master_template
+    using_master_template: 0
+    negate: 0
