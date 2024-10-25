@@ -1,0 +1,13 @@
+uuid: 89bee737-c30e-4bc6-ac9f-9d9a14982eff
+langcode: en
+status: true
+dependencies: {  }
+label: 'Base Primary 2'
+id: base-primary-2
+json_values: '{"link":true,"value":{"value":{"hex":"#ffd19c","rgba":"rgba(255, 209, 156, 1)"}},"uid":"base-primary-2","name":"Base Primary 2","class":".coh-color-base-primary-2","variable":"$coh-color-base-primary-2","inuse":false}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0043
+locked: false
+modified: true
+selectable: true
+weight: 2
